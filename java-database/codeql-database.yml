@@ -1,0 +1,11 @@
+---
+sourceLocationPrefix: D:\Zevra\demo-maven
+baselineLinesOfCode: 172
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: java
+creationMetadata:
+  sha: b120edd1e00a6cca96869d0974e06c362601c312
+  cliVersion: 2.14.0
+  creationTime: 2023-08-04T05:06:11.946997800Z
+finalised: true
